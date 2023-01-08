@@ -9,14 +9,10 @@ A prototype aiming to explore interactions between VR, Physics and hair fashion!
 - Item interactions with unique behavior, sounds, haptics and particles  
  
 ## Tools  
-- Unity 2021.3LTS  
+- Unity 2021.3 LTS
 - Unity XR Interaction Toolkit  
 - Shadergraph  
 - AsyncAwaitUtil
-
-## Tools
-- Unity 2021.3 LTS
-- Unity XR Interaction Toolkit  
 - Blender for 3D models
 - Inkscape for 2D images
 - Audacium for audio processing
