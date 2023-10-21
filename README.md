@@ -1,6 +1,8 @@
 # Barber Shop![✂](https://fonts.gstatic.com/s/e/notoemoji/15.0/2702/72.png)  
 A prototype aiming to explore interactions between VR, Physics and hair fashion!  
- 
+
+![](https://github.com/sowilu/BarberShop/blob/main/gameplay.gif)
+
 ## Features  
 - Full VR experience with head and hand controllers  
 - Hair morphing brushes (add, remove, smooth)  
